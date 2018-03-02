@@ -10,3 +10,5 @@ The following elements are demonstated:
  - How to load the network on the GPU
  - How to train the network
  - How to evaluate a model
+
+The model trained in this notebook is a simple CNN with batch normalization and dropout. The best accuracy reached on the test set is 93.51%.
