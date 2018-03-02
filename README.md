@@ -2,7 +2,7 @@
 
 The goal of this repo is to show how to build a basic classifier using PyTorch.
 
-The following elements are demonstated:
+The following elements are demonstrated:
  - How to load a dataset
  - How to perform data augmentation
  - How to build a convolutional neural network
